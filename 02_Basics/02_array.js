@@ -28,3 +28,12 @@ let score1=200
 let score2=300
 console.log(Array.of(score,score1,score2));
 // instead of from we use of becz from take string and can't make array through simple elements..for more MDN 
+
+const a=33
+console.log(a);
+let b=44
+console.log(b);
+b=4
+console.log(b);
+
+
